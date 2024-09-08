@@ -20,7 +20,9 @@
 
 <p align="center">
  
-<a href="https://www.linkedin.com/in/dasireddy-vamsidhar-2b1493241" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
+<a href="https://www.linkedin.com/in/dasireddy-vamsidhar-2b1493241" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://myportfolio-by-vamsidhar.netlify.app/" target="_blank"><img alt="" src="<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAATBJREFUSEvt1LEuRFEQxvHfFlpUWhqdViIaWg1vwCOg1aDQewWeAJWSQiEKD6DRaFSoFXaSvclms9eZe4mbyE55zuT7z3wzmZ6OotcR1wT8Z863tfoQe4MqT3HctOI24E1cjoC2cNUE3gZ8hOh4OKLjeE9HG3BnHUdXncw4bed3iU2tXsEBpkdEP3CC+2xVTcALeMRsjfgblvCSgWfBU7jDckH0Aav4LMGz4DgSuyWxoYOyX8rNgOM4XJSERv43cP2T5Yp5PmMG73jFYo3gE+YGuTHvecTSjY1Mx3EwzrEzuM/rNVo3/cWLkZxhu3RCM+DgROfRRYiv1YBv+/9RVJX77XSy4EokA06tQ1tw1V1AqmKG34rwCbhk0Thb/7fVJUfS/02XKy1cSpyASw792v8Xebw8H9UDvkoAAAAASUVORK5CYII="/>" style="vertical-align:center" /></a>
+</p>
 
 Greetings, I'm Vamsidhar!
 
