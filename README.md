@@ -21,7 +21,7 @@
 <p align="center">
  
 <a href="https://www.linkedin.com/in/dasireddy-vamsidhar-2b1493241" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://myportfolio-by-vamsidhar.netlify.app/" target="_blank"><img alt="" src="<img src="https://img.shields.io/badge/my-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+
 </p>
 
 Greetings, I'm Vamsidhar!
